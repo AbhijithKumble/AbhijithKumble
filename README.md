@@ -24,11 +24,6 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 - LinkedIn: [Abhijith Kumble](https://www.linkedin.com/in/abhijithdk/)
 - Email: abhijithdkumble@gmail.com
 
-## 🌟 Projects
-- [Project 1](https://github.com/AbhijithKumble/project1): Description of project 1.
-- [Project 2](https://github.com/AbhijithKumble/project2): Description of project 2.
-- [Project 3](https://github.com/AbhijithKumble/project3): Description of project 3.
-
 ## 💡 Fun Facts
 - 💸 I enjoy analysing companies, their finances for investing.
 
